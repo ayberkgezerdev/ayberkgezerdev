@@ -3,6 +3,7 @@
 🚀 500K+ Played Roblox Game Developer  
 🎮 Creator of live production simulator games  
 📈 Focused on retention, progression & game economy  
+💡 Specializing in simulator & tycoon game systems
 
 ![Steal an Animal](https://tr.rbxcdn.com/180DAY-49cdc27f5c0ad9139181213357c39be3/768/432/Image/Webp/noFilter)
 
