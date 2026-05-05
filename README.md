@@ -7,6 +7,8 @@
 
 ![Steal an Animal](https://github.com/user-attachments/assets/a875c27c-560a-4a72-a88f-34cdb6b078ac)
 
+*Gameplay showcasing UI systems, progression mechanics & live events*
+
 ---
 
 ## 🛠️ What I Do
