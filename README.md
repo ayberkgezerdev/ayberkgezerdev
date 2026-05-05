@@ -34,7 +34,7 @@
 
 🔥 500,000+ visits  
 🟢 Live production game  
-⚙️ Built core gameplay & progression systems  
+⚙️ Designed & implemented core gameplay, economy & progression systems
 
 ---
 
