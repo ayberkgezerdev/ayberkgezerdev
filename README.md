@@ -44,6 +44,9 @@
 ---
 
 ## ⚡ Tech
-- Lua (Roblox)  
-- Game Systems Design  
-- UI/UX Systems  
+- Lua (Roblox)
+- Roblox Studio
+- Game Systems Design
+- Economy & Progression Systems
+- UI/UX Systems
+- Client-Server Architecture
