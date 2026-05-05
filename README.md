@@ -5,8 +5,7 @@
 📈 Focused on retention, progression & game economy  
 💡 Specializing in simulator & tycoon game systems
 
-![Steal an Animal](<img width="1915" height="1079" alt="a66ffa77-9908-4beb-b761-e40bdfdc4ee4" src="https://github.com/user-attachments/assets/ebe6bf6b-75d4-4de7-abcb-9b97fbe8d48e" />
-)
+![Steal an Animal](https://github.com/user-attachments/assets/a875c27c-560a-4a72-a88f-34cdb6b078ac)
 
 ---
 
