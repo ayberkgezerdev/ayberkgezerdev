@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Ayberk
 
-🎮 Roblox Developer (Pr00f)  
-🚀 Building simulator & tycoon games  
+🚀 500K+ Played Roblox Game Developer  
+🎮 Creator of live production simulator games  
 📈 Focused on retention, progression & game economy  
+
+![Steal an Animal](https://tr.rbxcdn.com/180DAY-49cdc27f5c0ad9139181213357c39be3/768/432/Image/Webp/noFilter)
 
 ---
 
@@ -26,15 +28,13 @@
 ---
 
 ## 📊 Stats & Achievements
-🎮 [Steal an Animal](https://www.roblox.com/games/124363527702915/Steal-an-Animal)  
-- 500,000+ visits  
-- Live production game  
-- Designed gameplay systems & progression  
 
-🚀 Currently building next-gen simulator systems  
-- Dynamic market system  
-- Growth & feeding mechanics  
-- Event-driven gameplay  
+🎮 [Steal an Animal](https://www.roblox.com/games/124363527702915/Steal-an-Animal)  
+
+🔥 500,000+ visits  
+🟢 Live production game  
+⚙️ Built core gameplay & progression systems  
+
 ---
 
 ## 🔗 Links
@@ -48,5 +48,5 @@
 - Roblox Studio
 - Game Systems Design
 - Economy & Progression Systems
-- UI/UX Systems
 - Client-Server Architecture
+- UI/UX Systems
