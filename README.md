@@ -25,11 +25,16 @@
 
 ---
 
-## 📊 Goals
-- Reach 10,000+ CCU  
-- 15+ min average session time  
-- 20%+ retention  
+## 📊 Stats & Achievements
+🎮 [Steal an Animal](https://www.roblox.com/games/124363527702915/Steal-an-Animal)  
+- 500,000+ visits  
+- Live production game  
+- Designed gameplay systems & progression  
 
+🚀 Currently building next-gen simulator systems  
+- Dynamic market system  
+- Growth & feeding mechanics  
+- Event-driven gameplay  
 ---
 
 ## 🔗 Links
