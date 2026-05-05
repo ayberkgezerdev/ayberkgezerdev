@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayberk
 
-<!--
-**ayberkgezerdev/ayberkgezerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Roblox Developer (Pr00f)  
+🚀 Building simulator & tycoon games  
+📈 Focused on retention, progression & game economy  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+- Build scalable Roblox systems  
+- Design progression mechanics  
+- Create monetization systems (gamepasses, dev products)  
+- Optimize player retention (D1, session time)  
+
+---
+
+## 🎯 Current Project
+🟢 Grow Animals Simulator  
+
+- Market & stock system  
+- Animal growth system  
+- Feed & XP system  
+- Rebirth system  
+- Live events system  
+
+---
+
+## 📊 Goals
+- Reach 10,000+ CCU  
+- 15+ min average session time  
+- 20%+ retention  
+
+---
+
+## 🔗 Links
+🎮 Roblox Profile: https://www.roblox.com/users/103739533/profile  
+🏢 Studio: https://www.roblox.com/communities/33533355  
+
+---
+
+## ⚡ Tech
+- Lua (Roblox)  
+- Game Systems Design  
+- UI/UX Systems  
